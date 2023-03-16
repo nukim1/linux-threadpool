@@ -1,9 +1,14 @@
 
 # linux-threadpool
+### Features
+- High performance
+- Each task can be synchronized with a synchronization object.
 
 ### Usage
 
 ```c
+#include "thread_pool.h"
+
 void func(void* arg)  {
 	// do something
 }
