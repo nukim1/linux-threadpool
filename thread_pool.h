@@ -1,5 +1,5 @@
 /**
- * @author jess@mediaexcel.com
+ * @author presyncope@naver.com
  * @version 1.0
  * @attention When the queue size of a thread pool created with the 
  * 'CreateThreadPool' function reaches its maximum capacity, 
