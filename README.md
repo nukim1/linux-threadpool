@@ -1,8 +1,8 @@
 
 # linux-threadpool
 ### Features
-- High performance and extremly low delay
-- Each task can be synchronized with a synchronization object.
+- High performance and extremly low delay 
+- Each task can be synchronized with a synchronization object. (it is much more faster than std::future)
 
 ### Usage
 
