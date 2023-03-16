@@ -1,7 +1,7 @@
 
 # linux-threadpool
 ### Features
-- High performance
+- High performance and extremly low delay
 - Each task can be synchronized with a synchronization object.
 
 ### Usage
