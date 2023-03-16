@@ -1,6 +1,7 @@
 
 # linux-threadpool
 ### Features
+- Lightweight
 - High performance and extremly low delay 
 - Each task can be synchronized with a synchronization object. (it is much more faster than std::future)
 
